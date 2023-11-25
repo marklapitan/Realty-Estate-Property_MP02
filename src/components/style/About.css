@@ -1,0 +1,128 @@
+.about-maintag h1 {
+  font-size: 50px;
+  padding-top: 2rem;
+}
+.about-maintag p {
+  font-size: 20px;
+  padding-bottom: 2rem;
+}
+
+@media only screen and (max-width: 1280px) {
+  .about-backgroundimage .award-card {
+    display: flex;
+  }
+
+  .about-maintag h1 {
+    font-size: 20px;
+  }
+  .about-maintag p {
+    font-size: 10px;
+    text-align: center;
+  }
+
+  .mission-card .mission-typ1 {
+    font-size: 30px;
+  }
+  .mission-card .mission-typ2 {
+    font-size: 12px;
+  }
+  .mission-card .mission-dialog {
+    font-size: 12px;
+  }
+  .vision-card .vision-typ1 {
+    font-size: 30px;
+    margin-top: 2rem;
+  }
+  .vision-card .vision-typ2 {
+    font-size: 12px;
+  }
+  .vision-card .mission-dialog {
+    font-size: 12px;
+  }
+  .history-container .history-header {
+    font-size: 15px;
+  }
+  .history-container .history-tagline {
+    font-size: 13px;
+  }
+  .history-container .history-dialog {
+    font-size: 13px;
+  }
+  .achievement-container .achievement-headtag {
+    font-size: 15px;
+  }
+  .achievement-container .achievement-tagline {
+    font-size: 13px;
+    text-align: justify;
+  }
+  .achievement-container .key-achievement {
+    font-size: 15px;
+  }
+  .key-achievement li {
+    font-size: 15px;
+  }
+  .achievement-container .keyachievement-tagline {
+    font-size: 13px;
+  }
+  .award-container .award-typo {
+    font-size: 25px;
+  }
+  .award-container .award-subtitle {
+    font-size: 13px;
+  }
+
+  .award-container .award-img-container {
+    display: inline;
+  }
+  .award-card1 {
+    margin: auto;
+    padding: 2rem;
+    width: 40%;
+    margin-bottom: 1rem;
+  }
+  .award-card2 {
+    margin: auto;
+    width: 40%;
+    padding: 2rem;
+    margin-bottom: 1rem;
+  }
+  .award-card3 {
+    margin: auto;
+    padding: 2rem;
+    width: 40%;
+    margin-bottom: 1rem;
+  }
+  .award-card4 {
+    margin: auto;
+    padding: 2rem;
+    width: 40%;
+    margin-bottom: 1rem;
+  }
+  .award-card5 {
+    margin: auto;
+    width: 40%;
+    padding: 2rem;
+  }
+  .estate-number-con .prestige-estate-typo {
+    font-size: 15px;
+  }
+  .estate-number-con .prestige-body-typo {
+    font-size: 13px;
+    margin-top: 2rem;
+  }
+  .estates-number {
+    font-size: 15px;
+  }
+  .estates-number .estatesnumber {
+    font-size: 15px;
+  }
+  .estates-number .estates-typo {
+    font-size: 15px;
+  }
+  .estates-main-con .estates-typo {
+    font-size: 10px;
+  }
+  .estates-main-con .estates-number {
+    display: flex;
+  }
+}

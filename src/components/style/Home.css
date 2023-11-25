@@ -1,0 +1,56 @@
+.hero-container {
+  background-image: url("../../../../src/assets/image/mainbackgroundimage1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+@media only screen and (max-width: 700px) {
+  .hero-container {
+    background-image: url("../../../../src/assets/image/mainbackgroundimage1.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+    height: 100vh;
+  }
+  .hero-title h1 {
+    font-size: 20px;
+    margin: auto;
+  }
+  .hero-subtitle p {
+    font-size: 10px;
+  }
+
+  .hero-button .button-inquire {
+    font-size: xx-small;
+  }
+  .hero-button .button-call {
+    font-size: xx-small;
+  }
+  .hero-container .input-card {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 1rem;
+    width: 80%;
+  }
+  .hero-container .Choose-Location {
+    width: 100%;
+  }
+
+  .hero-container .house-lot {
+    padding-top: 1rem;
+    width: 100%;
+  }
+  .hero-container .choose-price {
+    padding-top: 1rem;
+    width: 100%;
+  }
+  .hero-container .Choose-Location {
+    padding-top: 1rem;
+  }
+  .hero-container .button-search {
+    font-size: xx-small;
+    margin-top: 1rem;
+  }
+  .input-card .input-textfield {
+    width: 100%;
+  }
+}

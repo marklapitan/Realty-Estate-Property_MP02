@@ -1,0 +1,47 @@
+@media only screen and (max-width: 700px) {
+  .main-contact .office-contact {
+    display: inline-block;
+    width: 50%;
+  }
+  .main-contact .location-card {
+    width: 85%;
+    height: 50%;
+    margin-bottom: 5rem;
+  }
+  .main-contact .phone-card {
+    width: 85%;
+    height: 50%;
+    margin-bottom: 5rem;
+  }
+  .main-contact .fax-card {
+    width: 85%;
+    height: 50%;
+    margin-bottom: 5rem;
+  }
+  .main-contact .email-card {
+    width: 85%;
+    height: 50%;
+  }
+  .main-contact .header-title {
+    font-size: 25px;
+  }
+  .main-contact .sub-title {
+    font-size: 15px;
+    text-align: justify;
+  }
+  .main-contact .placeIcon {
+    font-size: 25px;
+  }
+  .main-contact .about-maintag {
+    font-size: 10px;
+  }
+  .main-contact .phoneIcon {
+    font-size: 25px;
+  }
+  .main-contact .faxIcon {
+    font-size: 25px;
+  }
+  .main-contact .emailIcon {
+    font-size: 25px;
+  }
+}

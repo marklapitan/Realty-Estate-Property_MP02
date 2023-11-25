@@ -1,0 +1,43 @@
+@media only screen and (max-width: 700px) {
+  .main-container h1 {
+    font-size: 30px;
+    margin-top: 1rem;
+  }
+  .explore-container .list-card {
+    display: inline;
+  }
+  .explore-container .featured-properties {
+    margin-top: 5rem;
+  }
+  .featured-properties h1 {
+    font-size: 25px;
+  }
+  .find-new p {
+    font-size: 15px;
+  }
+  .Model-1 {
+    margin: auto;
+  }
+
+  .Model-2 {
+    margin: auto;
+    margin-top: 3%;
+  }
+
+  .Model-3 {
+    margin: auto;
+    margin-top: 3%;
+  }
+  .Model-4 {
+    margin: auto;
+    margin-top: 3%;
+  }
+  .Model-5 {
+    margin: auto;
+    margin-top: 3%;
+  }
+  .Model-6 {
+    margin: auto;
+    margin-top: 3%;
+  }
+}
