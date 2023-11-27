@@ -98,7 +98,7 @@ function Navbar() {
           <img
             src="../../../src/assets/Image/navbarlogo.png"
             alt="logo"
-            width="200"
+            width="300"
           />
           <Typography
             variant="h5"
